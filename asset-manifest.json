@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adding-and-filtering-in-contacts/static/css/main.411be0ca.css",
+    "main.js": "/adding-and-filtering-in-contacts/static/js/main.0ec140bb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/adding-and-filtering-in-contacts/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/adding-and-filtering-in-contacts/index.html",
+    "main.411be0ca.css.map": "/adding-and-filtering-in-contacts/static/css/main.411be0ca.css.map",
+    "main.0ec140bb.js.map": "/adding-and-filtering-in-contacts/static/js/main.0ec140bb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/adding-and-filtering-in-contacts/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.411be0ca.css",
+    "static/js/main.0ec140bb.js"
+  ]
+}
